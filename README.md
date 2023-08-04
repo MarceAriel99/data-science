@@ -20,9 +20,9 @@ These are the tasks:
 * (C2) Calculate the Shannon entropy (base 2) of business category membership.
 * (P28) We want to know where some of our users live. For the users who have more than 50 different business records in the reviews table get the average and standard deviation of the latitude and longitude of the businesses that rated (counting each business only once). For the user who has the least summed standard deviation of both coordinates, show that average and where it is and what the user is called
 * (V7) Get exactly this visualization using the data:
-  ![image](https://github.com/MarceAriel99/data-science/assets/60658991/13f06719-c31e-4002-b923-086d602dff3a)
+  ![image](https://github.com/MarceAriel99/data-science/assets/60658991/5311803f-74a8-4244-b209-dec0a485973a)
 * (V10) Get exactly this visualization using the data:
-  ![image](https://github.com/MarceAriel99/data-science/assets/60658991/92b59c39-4306-46f3-9d85-e31a2222a362)
+  ![image](https://github.com/MarceAriel99/data-science/assets/60658991/61919514-954b-412e-9dc5-11f1cb62e934)
 * (Part 2) Make 6 interesting visualizations with the datasets provided.
 
 ## TP2
