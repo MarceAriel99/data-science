@@ -1,7 +1,7 @@
 <h1 align="center" style="color:black"> Data Science Assignments </h1>
 
 ### Datasets
-[Google Drive folder]([myLib/README.md](https://drive.google.com/drive/folders/1CsvJs0xZ9SCLtG4ci2dNGCkhqnI-1DLS?usp=drive_link))
+[Google Drive folder](https://drive.google.com/drive/folders/1CsvJs0xZ9SCLtG4ci2dNGCkhqnI-1DLS?usp=drive_link)
 
 ### Languages and tools
 <div>
